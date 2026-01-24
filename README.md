@@ -47,3 +47,6 @@ This project shows how retail businesses can use data analytics to:
 ### 🧠 Skills Demonstrated
 
 Data Cleaning • SQL • Python Analys
+
+Screenshot: ![Dashboard Preview].(https://github.com/adityashindesknscoecomp-web/Data-Analyst-/blob/main/Screenshot%202026-01-24%20121313.png).
+
